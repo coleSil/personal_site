@@ -183,6 +183,16 @@ section.resume-section .resume-item .resume-date {
   color: #009900 !important;
 }
 
+.btn-primary{
+  background-color: #495057;
+  border-color: #495057;
+  hover-color: #009900;
+}
+
+.btn-primary:hover{
+  background-color: #009900;
+}
+
 a {
   color: #009900;
 }
